@@ -2,6 +2,8 @@
 	"name": "react-redux-example-api",
 	"version": "1.0.0",
 	"main": "index.js",
+	"repository": "https://github.com/sefa-sahinoglu/react-redux-example-api",
+	"author": "sefa-sahinoglu <sefa.sahinoglu@reateknoloji.com>",
 	"license": "MIT",
 	"scripts": {
 		"start": "nodemon --exec babel-node -- src/index.js"
